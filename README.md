@@ -11,7 +11,11 @@ This report contains results drawn from trends found in the data and graphs obta
 
 The first graph (Theater Outcomes vs Launch) shows the relationship between having a successful or unsuccessful campaign and the time period in which the campaign was launched.
 
+![](Resources/Theater_Outcomes_vs_Launch.png)
+
 The second graph (Outcomes vs Goals) shows the relationship between the goal ranges and the percentage of successful and unsuccessful campaigns.
+
+![](Resources/Outcomes_vs_Goals.png)
 
 There were not many challenges in analyzing the data set because it was well organized.
 
